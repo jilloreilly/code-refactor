@@ -1,4 +1,3 @@
-
 /* Site-wide styles */
 
 * {
@@ -126,7 +125,7 @@ p {
     max-width: 150px;
 }
 
-.benefits div{
+.benefits div { /* Removed unnecessary classes and instead target common element */
     margin-bottom: 32px;
     color: #fff;
 }
