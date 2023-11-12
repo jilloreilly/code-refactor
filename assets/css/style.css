@@ -125,7 +125,7 @@ aside img {
     max-width: 150px;
 }
 
-aside div { /* Removed unnecessary classes and instead target common element */
+aside section { /* Removed unnecessary classes and instead target common element */
     margin-bottom: 32px;
     color: #fff;
 }
