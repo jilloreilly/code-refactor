@@ -1,5 +1,6 @@
 
 /* Site-wide styles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -30,6 +31,7 @@ p {
 }
 
 /* Header styling */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -64,6 +66,7 @@ p {
 }
 
 /* Hero image styling */
+
 .hero {
     height: 800px;
     width: 100%;
