@@ -35,7 +35,14 @@ header { /* Remove header class and instead target <header> element */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center 100px;
+    background-repeat: no-repeat;
     color: #fff;
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;   
 }
 
 header h1 {
@@ -64,16 +71,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Hero image styling */
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
+/* Removed hero div and added as background image to header */
 
 /* Main styling */
 
